@@ -1,0 +1,7 @@
+requests
+beautifulsoup4
+nltk
+fuzzywuzzy
+python-Levenshtein
+-e git://github.com/aaronsw/pytorctl.git#egg=pytorctl
+http://www.podgorski.com.br/ime/SocksiPyt.zip
